@@ -122,6 +122,9 @@ header nav li {
   header h2 {
     margin-bottom: 15px;
   }
+  header nav {
+    margin: 0;
+  }
 }
 
 /* Hero Styles */
